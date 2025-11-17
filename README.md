@@ -1,4 +1,4 @@
-## Olá 👋
+## 👋 Olá
 
 Meu nome é **Adriell**, estou no ano de **2025** cursando na faculdade **UDF**.
 
@@ -31,7 +31,16 @@ Meu nome é **Adriell**, estou no ano de **2025** cursando na faculdade **UDF**.
 
 ---
 
+## 📈 Resumo de Atividades
+
+- ⭐ Total de estrelas recebidas: **0**  
+- 📅 Total de commits (último ano): **8**  
+- 🔀 Total de pull requests: **0**  
+- 🐞 Total de issues: **0**  
+- 🤝 Contribuiu para (último ano): **0**
+
+---
+
 ## 🚀 Contribuições
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=adriellsk8-debug&theme=radical)
-
+![Estatísticas de contribuição](https://github-readme-streak-stats.herokuapp.com/?user=adriellsk8-debug&theme=radical)
