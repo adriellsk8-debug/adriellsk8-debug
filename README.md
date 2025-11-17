@@ -21,6 +21,17 @@ Meu nome é **Adriell**, estou no ano de **2025** cursando na faculdade **UDF**.
   - Instagram: **_eo.del**  
   - Telefone/WhatsApp: **(61) 99903-6353**  
 
-    
+---
 
+## 📊 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=adriellsk8-debug&show_icons=true&theme=radical)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=adriellsk8-debug&layout=compact&theme=radical)
+
+---
+
+## 🚀 Contribuições
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=adriellsk8-debug&theme=radical)
 
