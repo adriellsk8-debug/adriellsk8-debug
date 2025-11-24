@@ -1,46 +1,34 @@
-## 👋 Olá
+<h1 align="center">Olá sou o Adriell</h1>
 
-Meu nome é **Adriell**, estou no ano de **2025** cursando na faculdade **UDF**.
+###
 
-- 🎓 Atualmente estou cursando **Ciência da Computação**.  
-  Quando eu terminar, quero estar trabalhando em uma empresa e, logo em seguida, abrir a minha própria empresa.  
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+</div>
 
-- 🔭 Atualmente estou trabalhando no **almoxarifado** de uma empresa.  
+###
 
-- 🌱 Estou aprendendo:  
-  - HTML  
-  - JAVA  
-  - JAVASCRIPT  
-  - CSS  
-  - LINGUAGEM EM C  
-  - Gerenciamento de sistema de banco de dados  
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
 
-- 💬 Pergunte-me sobre alguma coisa.  
+###
 
-- 📫 Como entrar em contato comigo:  
-  - Instagram: **_eo.del**  
-  - Telefone/WhatsApp: **(61) 99903-6353**  
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=adriellsk8-debug&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=adriellsk8-debug&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
----
-
-## 📊 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=adriellsk8-debug&show_icons=true&theme=radical)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=adriellsk8-debug&layout=compact&theme=radical)
-
----
-
-## 📈 Resumo de Atividades
-
-- ⭐ Total de estrelas recebidas: **0**  
-- 📅 Total de commits (último ano): **8**  
-- 🔀 Total de pull requests: **0**  
-- 🐞 Total de issues: **0**  
-- 🤝 Contribuiu para (último ano): **0**
-
----
-
-## 🚀 Contribuições
-
-![Estatísticas de contribuição](https://github-readme-streak-stats.herokuapp.com/?user=adriellsk8-debug&theme=radical)
+###
